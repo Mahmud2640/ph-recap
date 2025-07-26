@@ -47,7 +47,7 @@ If you’d like to explore this repository:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Mahmud2640/ph-recap
    ```
 
 2. Navigate to the desired folder:
@@ -64,12 +64,10 @@ If you’d like to explore this repository:
 
 4. Run the code or project as needed (e.g., using npm, yarn, etc.)
 
-   ````bash
+   ```bash
          npm install
          npm start
-         ```
-
-   ````
+   ```
 
 5. Feel free to explore, modify, and learn from the code!
 6. If you have any questions or suggestions, please open an issue or pull request.
